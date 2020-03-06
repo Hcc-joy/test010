@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FWLIB",
+    "\\HARDWARE",
+    "\\HARDWARE\\PWM",
+    "\\SYSTEM",
+    "\\SYSTEM\\usart",
+    "\\USER"
+  ],
+  "SelectedNode": "\\USER\\main.c",
+  "PreviewInSolutionExplorer": false
+}
